@@ -1,0 +1,19 @@
+{
+  "errorDebugMode": false,
+  "chats": {
+    "global": {
+      "id": "global",
+      "title": "Global Chat",
+      "type": "global",
+      "history": []
+    },
+    "error-chat": {
+      "id": "error-chat",
+      "title": "Error Resolution",
+      "type": "error",
+      "history": []
+    }
+  },
+  "currentChatId": "global",
+  "contextPickerMode": "workspace"
+}
