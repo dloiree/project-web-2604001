@@ -1,0 +1,4 @@
+Nama : Adrian Dwi Laksono
+NIM : 2604001
+Bukti : Project berhasil dipulihkan dari remote repository. 
+Penjelasan : File ini dibuat dari working copy hasil clone pada Pertemuan 4. 
